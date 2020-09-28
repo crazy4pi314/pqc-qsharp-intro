@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/quantum/iqsharp-base:0.12.2007.124
+FROM mcr.microsoft.com/quantum/iqsharp-base:0.12.20082513
 
 USER root
 # Install additional system packages from apt.

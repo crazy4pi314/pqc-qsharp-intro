@@ -1,7 +1,7 @@
 {
     "dockerFile": "Dockerfile",
     "containerEnv": {
-        "IQSHARP_HOSTING_ENV": "crazy4pi314/isgqt-devcontainer"
+        "IQSHARP_HOSTING_ENV": "crazy4pi314/pqc-devcontainer"
     },
     "extensions": [
         "quantum.quantum-devkit-vscode",
